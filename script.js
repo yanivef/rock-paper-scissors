@@ -1,6 +1,3 @@
-// const computerChoice = getComputerChoice()
-// const playerSelection = 
-// console.log(playRound(playerSelection, computerChoice))
 console.log(game())
 
 
